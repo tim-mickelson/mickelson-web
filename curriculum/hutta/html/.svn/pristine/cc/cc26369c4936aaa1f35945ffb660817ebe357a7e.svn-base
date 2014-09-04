@@ -1,0 +1,48 @@
+		<table>
+			<tr>
+				<td>
+					<hr class="cvline">
+				</td>
+				<td>&nbsp;</td>
+				<td>
+					<div class=cvtitle>
+						Work Experience
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right">2007 - </td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left"><i>I & T Servizi S.r.l. Milano</i></td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right"></td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left">Software Designer and Team Leader for various web projects with MVC pattern.</td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right">2004 - 2007</td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left"><i>Algoritmi S.r.l. Milano</i></td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right"></td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left">
+					Programmer and Software Designer for the development of various projects including applications for Voice over IP (<i>VoIP</i>)
+				</td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right">1999 - 2004</td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left"><i>Easysystem S.r.l. Piacenza - Work location Cologne, Germany</i></td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right"></td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left">
+					Programmer for the Toyota Formula 1 team. Application development for the system of the
+					parts life of the car - (<i>lifing system</i>)
+				</td>
+			</tr>
+		</table>

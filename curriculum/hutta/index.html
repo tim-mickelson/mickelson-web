@@ -1,0 +1,58 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+		<script src="js/jquery-1.8.3.min.js"></script>
+		<script>
+			$(document).ready(function(){
+				$("#personalDetails").load("html/personal_details.html");
+				$("#languageSkills").load("html/language_skills.html");
+				$("#education").load("html/education.html");
+				$("#thesis").load("html/thesis.html");
+				$("#workExperience").load("html/work_experience.html");
+				$("#detailsWork").load("html/details_work.html");
+				$("#skills").load("html/skills.html");
+				$("#addresses").load("html/addresses.html");
+			});
+		</script>
+	</head>
+	<body>
+		<div class="name">
+			Timothy Mickelson	
+		</div>
+		<div class="title">
+			Project Leader, Progettista Sr.
+		</div>
+		<br></br>
+			<table>
+				<tr><td align="center">
+					<div class="abstract">
+			Software Designer/Team leader with many years of<br> 
+			experience in the field and with great ability to adapt to<br> 
+			new technologies.
+					</div>
+				</td></tr>
+			</table>
+		<table class="contact">
+			<tr><td>Via Paolo Lomazzo, 1</td></tr>
+			<tr><td>20154 Milano, MI, Italia</td></tr>
+			<tr><td><img src="images/phone.png" height="12">&nbsp;+393483042512</td></tr>
+			<tr><td><img src="images/email.png" height="12">&nbsp;tim@mickelson.eu</td></tr>
+		</table>
+		<br><br><br><br>
+		<table width="900">
+			<tr>
+				<td>
+					<div id="personalDetails"></div>
+					<div id="languageSkills"></div>
+					<div id="education"></div>
+					<div id="thesis"></div>
+					<div id="workExperience"></div>
+					<div id="detailsWork"></div>
+					<div id="skills"></div>
+					<div id="addresses"></div>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>

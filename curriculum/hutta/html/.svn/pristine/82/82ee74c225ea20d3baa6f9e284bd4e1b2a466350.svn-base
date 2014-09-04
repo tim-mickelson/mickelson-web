@@ -1,0 +1,39 @@
+		<table>
+			<tr>
+				<td>
+					<hr class="cvline">
+				</td>
+				<td>&nbsp;</td>
+				<td>
+					<div class=cvtitle>
+						Addresses
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right"></td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left">
+					<table>	
+						<tr><td width="250"><b>I & T Servizi S.r.l.</b></td><td></td><td></td></tr>
+						<tr><td>Via Durando, 38</td><td>Tel:</td><td>+392468754</td></tr>
+						<tr><td>20158, Milano</td><td>Fax:</td><td>+39287398723</td></tr>
+						<tr><td></td><td>Email:</td><td>info@ietservizi.it</td></tr>
+						<tr><td></td><td>Web:</td><td>www.ietservizi.it</td></tr>
+						<tr><td></td><td></td><td></td></tr>
+						<tr><td><b>Algoritmi S.r.l.</b></td><td></td><td></td></tr>
+						<tr><td>Via Sottocorno Pasquale, 54</td><td>Tel:</td><td>+39289074687</td></tr>
+						<tr><td>20129, Milano</td><td>Web:</td><td>www.algonet.com</td></tr>
+						<tr><td></td><td></td><td></td></tr>
+						<tr><td><b>Easysystem S.r.l.</b></td><td></td><td></td></tr>
+						<tr><td>Via San Giovanni 20</td><td>Tel:</td><td>+393493753808</td></tr>
+						<tr><td>29100, Piacenza</td><td>Email:</td><td>easysystem@email.it</td></tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right"></td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left"></td>
+			</tr>
+		</table>

@@ -1,0 +1,32 @@
+		<table>
+			<tr>
+				<td>
+					<hr class="cvline">
+				</td>
+				<td>&nbsp;</td>
+				<td>
+					<div class=cvtitle>
+						Master's Thesis
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right">Title</td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left"><i>Spline-Galerkin Calculations of Rydberg Series</i></td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right">Supervisor</td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left">Professor Charlotte Fischer and Tomas Brage</td>
+			</tr>
+			<tr valign="top">
+				<td class="cvItemTitle" align="right">Abstract</td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left">
+The thesis is based on calculations of the Rydberg series. The result of the dissertation
+was a program package written in Fortran. Almost all of the research has been done at the
+Computer Science Department at Vanderbilt University in Nashville TN (USA).
+				</td>
+			</tr>
+		</table>

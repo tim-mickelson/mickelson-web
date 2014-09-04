@@ -1,0 +1,66 @@
+		<table>
+			<tr>
+				<td>
+					<hr class="cvline">
+				</td>
+				<td>&nbsp;</td>
+				<td>
+					<div class=cvtitle>
+						Details of the principal work experience
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right">I & T Servizi</td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left">
+					Project Leader specializing mainly in medium-sized and enterprise MVC projects. Frontend of the 
+					projects are Flex or JSP, back-end uses a Spring like framework and the
+					Database is Oracle 8/9/10. The purpose of the projects are of various nature, health
+					care, prevention and construction types. The development team lead by me consists of 15
+					people. These people are testers, programmers PL/Sql and Java/ActionScript programmers.
+					As Team Leader I figured as responsible of technical decisions and interacting with
+					clients for analysis and consulting, among the tasks especially:
+					<ul>
+						<li>Analysis and software design
+						<li>Management of the development team.
+						<li>Customer management for technical problem solving, consulting and analysis
+						<li>Documentation, UML, wiki and other
+					<ul>
+				</td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right">Algoritmi S.r.l.</td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left">
+					Programmer and Software Designer for applications based on the Asterisk PBX. With this
+					system I have completed several projects of which the most important are:
+					<ul>
+						<li>Application for call center that handles calls from clients and hands them over to a free
+							operator. The product works with sockets, the server(daemon) on Linux platform, passes
+							the calls to the operators (configured with Visual Basic and integrated with FileMaker Pro).
+							The product is completely developed in C++.
+						<li>Interface for management of the Asterisk PBX. Written in PHP, Perl and C++.
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td class="cvItemTitle" align="right">Easysystem S.r.l.</td>
+				<td>&nbsp;</td>
+				<td class="cvItem" align="left">
+					Participated in developing various projects Client Server nature at the Toyota Formula 1
+					team in Cologne, Germany. The most important project consisted of the lifing system of
+					the racing car. The lifing system is a system that allows the engineers to monitor the history
+					of the construction of the car in detail and have specific details of every single part of the
+					car.
+					<ul>
+						<li>Teaching C programming at the <i>Politecnico di Milano (Technical University of Milan)</i>.
+						<li>Teaching at Visual Basic 6 Programming at the <i>Politecnico di Milano (Technical University of Milan)</i>.
+						<li>Teaching Linux Administration at the <i>Politecnico di Milano (Technical University of Milan)</i>.
+						<li>Teaching at <i>Team Memory S.r.l., Piacenza</i> in Linux Administration course.
+						<li>Teaching at <i>Apogeo, Pavia</i> in MySQL administration.
+						<li>Teaching at <i>Apogeo, Pavia</i> in PHP programming.
+					</ul>
+				</td>
+			</tr>
+		</table>

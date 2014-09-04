@@ -1,0 +1,66 @@
+tr{
+	vertical-align: top;
+}
+.ss{
+	font-family: sans-serif;
+}
+.sarif{
+	font-family: serif;
+}
+
+.name{
+	font-family: sans-serif;
+	font-size: 30px;
+}
+.title{
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 18px;
+	color: grey;
+}
+.cvtitle{
+	font-family: Times;
+	font-size: 22px;
+	color: 3399FF;
+}
+.abstract{
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 18px;
+	color: grey;
+	color: 3399FF;
+	position: absolute;
+	left: 50px;
+}
+.contact{
+	font-family: sans-serif;
+	font-size: 12px;
+	color: #027DBA;
+	position: absolute;
+	left: 800px;
+	top: 0px;
+}
+.cvline{
+	vertical-align: middle;
+	left: 0px;
+	width: 200;
+	/* text-align ie, margin-left ff */
+	text-align: left;
+	margin-left: 0;
+	color: 3399FF;
+	background-color: 3399FF;
+	height: 10px;
+	border: solid;
+	float: left;
+	/*
+	*/
+}
+.cvItemTitle{
+	font-family: sans-serif;
+	font-size: 15px;
+	color: grey;
+}
+.cvItem{
+	font-family: sans-serif;
+	font-size: 15px;
+}
